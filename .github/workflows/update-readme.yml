@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # 매 시간 정각에 실행
+    - cron: '0 */1 * * *'
   push:
     branches:
       - main
@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit README
         run: |
-          git config --local user.name 'Ju-MINJAE' # 수정
-          git config --local user.email 'juminjae98@gmail.com' # 수정
+          git config --local user.name 'Ju-MINJAE' 
+          git config --local user.email 'juminjae98@gmail.com'
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m 'Update README with latest blog posts'
@@ -37,4 +37,4 @@ jobs:
             echo "No changes to commit"
           fi
         env:
-          GH_PERSONAL_TOKEN: ${{ secrets.JU_PERSONAL_TOKEN }} # 수정
+          GH_PERSONAL_TOKEN: ${{ secrets.JU_PERSONAL_TOKEN }}

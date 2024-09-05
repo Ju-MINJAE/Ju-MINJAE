@@ -1,0 +1,17 @@
+{
+  "name": "ju-minjae",
+  "version": "1.0.0",
+  "description": "![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome%20to%20MinJae's%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=40)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

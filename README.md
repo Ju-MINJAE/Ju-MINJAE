@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - [UI와 UX의 차이](https://min-ja-e.tistory.com/entry/UI%EC%99%80-UX%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [Display 속성이란 ?](https://min-ja-e.tistory.com/entry/Display-%EC%86%8D%EC%84%B1%EC%9D%B4%EB%9E%80)
 - [HTML 시맨틱 태그(Semantic Tag)란?](https://min-ja-e.tistory.com/entry/HTML-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8Semantic-Tag%EB%9E%80)
+

@@ -19,7 +19,7 @@ const parser = new Parser({
 
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
   let latestPosts = '### Latest Blog Posts\n\n';
-  for (let i = 0; i < 5 && i < feed.items.length; i++) {
+  for (let i = 0; i < 4 && i < feed.items.length; i++) {
     const { title, link } = feed.items[i];
     latestPosts += `- [${title}](${link})\n`;
   }
@@ -27,7 +27,7 @@ const parser = new Parser({
   // 기존 README.md에 최신 블로그 포스트 추가
   const newReadmeContent = readmeContent.includes('### Latest Blog Posts')
     ? readmeContent.replace(
-        /### 📕 Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
         latestPosts
       )
     : readmeContent + latestPosts;

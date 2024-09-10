@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 
+- [[Javascript] 조건문과 반복문](https://min-ja-e.tistory.com/entry/Javascript-%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 - [[Javascript] 연산자](https://min-ja-e.tistory.com/entry/Javascript-%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[React] Supabase 사용하여 ToDo 제작하기](https://min-ja-e.tistory.com/entry/React-Supabase-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-ToDo-%EC%A0%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [[Javascript] var, let, const의 차이점](https://min-ja-e.tistory.com/entry/Javascript-var-let-const%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
-- [[Javascript] 데이터 타입](https://min-ja-e.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
 

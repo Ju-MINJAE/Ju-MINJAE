@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae)](https://github.com/Ju-MINJAE/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae)](https://velog.io/@min_jae)
   
 </div>
 

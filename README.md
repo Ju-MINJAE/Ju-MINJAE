@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae&tag=계산기)](https://velog.io/@min_jae/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EA%B3%84%EC%82%B0%EA%B8%B0%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae&tag=GitHub에올리기위한태그)](https://velog.io/@min_jae/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EA%B3%84%EC%82%B0%EA%B8%B0%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 </div>
 

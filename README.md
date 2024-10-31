@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae)](https://velog.io/@min_jae)
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=47bb98&height=130&section=header%&fontSize=20&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fdee4b&height=130&section=header%&fontSize=20&fontColor=ffffff&fontAlignY=30)
   
 
 <div align='center'>

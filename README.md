@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae&tag=github)](https://velog.io/@min_jae/Github-Webhook%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%EB%82%B4%EC%9A%A9%EC%9D%84-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B0%9B%EC%95%84%EB%B3%B4%EC%9E%90)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae&tag=회고)](https://velog.io/@min_jae/%EC%8B%AC%ED%99%94%EB%A1%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%82%A0-%EC%9E%8A%EC%A7%80%EB%A7%88)
 </div>
 

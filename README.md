@@ -7,7 +7,7 @@
 <br />
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juminje)](https://solved.ac/juminje/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-MINJAE&layout=compact)](https://github.com/Ju-MINJAE/github-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae&tag=회고)](https://velog.io/@min_jae/%EC%8B%AC%ED%99%94%EB%A1%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%82%A0-%EC%9E%8A%EC%A7%80%EB%A7%88)
 
   
 <br />
@@ -21,6 +21,6 @@
 
 <br />
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=min_jae&tag=회고)](https://velog.io/@min_jae/%EC%8B%AC%ED%99%94%EB%A1%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%82%A0-%EC%9E%8A%EC%A7%80%EB%A7%88)
+
   
 </div>

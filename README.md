@@ -14,7 +14,7 @@
 
 | **Project** | **Description** | **Period** |
 |:---|:---|:---|
-| 🏠[채우다](https://github.com/chaeuda-TEAM/oz-main-fe-06-team2) | 전국 빈집을 소개하는 부동산 서비스 | 2024.12~진행중|
+| 🏠[채우다](https://github.com/chaeuda-TEAM/oz-main-fe-06-team2) | 전국 빈집을 소개하는 부동산 서비스 | 2024.12~2025.01|
 | 💪[커뮤니티](https://github.com/Ju-MINJAE/communiT) | 운동 관련 정보를 나누고 챌린지에 참여하는 사이트 | 2024.10~2024.12 |
 | 🏫[그리핀도미토리](https://github.com/Ju-MINJAE/Griffindormitory) | 기숙사 룸메이트를 구하고 시간표, 학점을 관리하는 애플리케이션 |2024.04 ~2024.06 |
 | 📦[빌리지](https://github.com/Ju-MINJAE/Viliez) | 개인 간의 물품 대여와 반납을 지원하는 C2C 서비스 | 2023.10~2023.12 |

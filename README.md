@@ -1,7 +1,9 @@
 <details>
 <summary><b>Open Source Contributions</b></summary>
 
-#### [Naver fe-news](https://github.com/naver/fe-news/pulls?q=is%3Apr+author%3AJu-MINJAE+) <sub>| FE 기술 소식 큐레이션 뉴스레터</sub>
+#### [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=is%3Apr+is%3Aclosed+author%3AJu-MINJAE) <sub>| Essential principles for frontend development</sub>
+
+#### [Naver/fe-news](https://github.com/naver/fe-news/pulls?q=is%3Apr+author%3AJu-MINJAE+) <sub>| FE 기술 소식 큐레이션 뉴스레터</sub>
 
 #### [nodejs.org](https://github.com/nodejs/nodejs.org/pulls?q=is%3Apr+author%3AJu-MINJAE+) <sub>| The Node.js® Website</sub> 
 

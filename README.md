@@ -1,6 +1,8 @@
 <details>
 <summary><b>Open Source Contributions</b></summary>
 
+#### [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/pulls?q=is%3Apr+is%3Aclosed+author%3AJu-MINJAE) | <sub>ESLint to support TypeScript</sub>
+
 #### [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=is%3Apr+is%3Aclosed+author%3AJu-MINJAE) <sub>| Essential principles for frontend development</sub>
 
 #### [Naver/fe-news](https://github.com/naver/fe-news/pulls?q=is%3Apr+author%3AJu-MINJAE+) <sub>| FE 기술 소식 큐레이션 뉴스레터</sub>

@@ -1,28 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20!&animation=&fontColor=ffffff&fontSize=50" />
-</div>
 
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2>
-  <br>
-  <div style="margin: 0 auto; text-align: center;" align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-    <br />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-    <br />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  </div>
-</div>
-
-<br>
-
-<div align="center">
+<!-- <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Open Source Contributions </h2> <br>
 
 | Project | Description | PRs |
@@ -35,4 +12,4 @@
 | **ko.react.dev** | React documentation website in Korean | [→ View](https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+author%3AJu-MINJAE+) |
 | **MDN Web Docs** | MDN Web Docs localization project | [→ View](https://github.com/mdn/translated-content/pulls?q=is%3Apr+author%3AJu-MINJAE+) |
 
-</div>
+</div> -->
